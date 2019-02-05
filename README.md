@@ -1,7 +1,7 @@
 ﻿# CSV_report_processing
-pip install requirements.txt
+pip install -r requirements.txt
 
-python solution2.py
+python main.py
 
 
 Description: program takes CSV(input.csv):
